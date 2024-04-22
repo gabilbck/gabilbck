@@ -21,7 +21,7 @@ I'm Gabrieli, a Student of Software Engennier, WEB and Mobile developer
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React" title="React"/> 
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" alt="php" title="php"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="c" title="c"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" title="MySQÇ"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" title="MySQL"/>
 </div>
 
 ### Framewoks
