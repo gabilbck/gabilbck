@@ -2,6 +2,15 @@
 ### About me
 I'm Gabrieli, a Student of Software Engennier, WEB and Mobile developer
 
+### Tools
+<div>
+  <img href="https://icons8.com.br/icon/9OGIyU8hrxW5/visual-studio-code-2019" width="100" height="100" alt="VS CODE"/>
+  <img href="https://icons8.com.br/icon/9OGIyU8hrxW5/visual-studio-code-2019" width="100" height="100" alt=""/>
+  <img href="https://icons8.com.br/icon/9OGIyU8hrxW5/visual-studio-code-2019" width="100" height="100" alt=""/>
+  <img href="https://icons8.com.br/icon/9OGIyU8hrxW5/visual-studio-code-2019" width="100" height="100" alt=""/>
+  <img href="https://icons8.com.br/icon/9OGIyU8hrxW5/visual-studio-code-2019" width="100" height="100" alt=""/>
+</div>
+
 
 <!--
 <div style="display: inline_block">
