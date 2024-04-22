@@ -1,4 +1,4 @@
-# (づ ◕‿◕ )づ   Welcome!
+# (づ ◕‿◕ )づ   ✦ Welcome! ✦
 ### About me
 I'm Gabrieli, a Student of Software Engennier, WEB and Mobile developer ⚙️💻📱
 
