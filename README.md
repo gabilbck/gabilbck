@@ -1,5 +1,5 @@
-# Welcome to my home page! :3
-### I'm Gabrieli, a Student of Software Engennier that loves coding!
+# Welcome! :3
+### I'm Gabrieli, a Student of Software Engennier, WEB and Mobile developer
 
 
 <!--
