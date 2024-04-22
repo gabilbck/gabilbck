@@ -1,6 +1,6 @@
 # (づ ◕‿◕ )づ   Welcome!
 ### About me
-I'm Gabrieli, a Student of Software Engennier, WEB and Mobile developer 💻
+I'm Gabrieli, a Student of Software Engennier, WEB and Mobile developer 💻📱
 
 ### Tools
 <div style="display: inline_block">
