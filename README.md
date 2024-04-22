@@ -9,7 +9,7 @@ I'm Gabrieli, a Student of Software Engennier, WEB and Mobile developer
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" />
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="50" />
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="50" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" />
 </div>
 
 
