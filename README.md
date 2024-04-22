@@ -3,12 +3,13 @@
 I'm Gabrieli, a Student of Software Engennier, WEB and Mobile developer
 
 ### Tools
-<div>
-<!--   <img href="https://icons8.com.br/icon/9OGIyU8hrxW5/visual-studio-code-2019" width="100" height="100" alt="VS CODE"/>
-  <img href="https://icons8.com.br/icon/9OGIyU8hrxW5/visual-studio-code-2019" width="100" height="100" alt=""/>
-  <img href="https://icons8.com.br/icon/9OGIyU8hrxW5/visual-studio-code-2019" width="100" height="100" alt=""/>
-  <img href="https://icons8.com.br/icon/9OGIyU8hrxW5/visual-studio-code-2019" width="100" height="100" alt=""/>
-  <img href="https://icons8.com.br/icon/9OGIyU8hrxW5/visual-studio-code-2019" width="100" height="100" alt=""/> -->
+<div style="display: inline_block">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" /> 
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="50" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="50" />
 </div>
 
 
