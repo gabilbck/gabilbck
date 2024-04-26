@@ -2,9 +2,8 @@
 ### ✦ About me ✦
 I'm Gabrieli, a Student of Software Engennier, WEB and Mobile developer ⚙️💻📱
 
-
-### ✦ Tools ✦
 <br>
+### ✦ Tools ✦
 <div style="display: inline_block">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code" title="VS Code"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50" alt="Abdroid Studio" title="Android Studio"/> 
