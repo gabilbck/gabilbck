@@ -12,6 +12,7 @@ I'm Gabrieli, a Student of Software Engennier, WEB and Mobile developer ⚙️�
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="50" alt="Firebase" title="Firebase"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" alt="Arduino" title="Arduino"/>
 </div>
+<br>
 
 ### ✦ Languages ✦
 <div style="display: inline_block">
