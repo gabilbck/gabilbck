@@ -1,6 +1,7 @@
 # (づ ◕‿◕ )づ ‎ ‎ ‎ ‎ ✦ Welcome! ✦
 ### ✦ About me ✦
 I'm Gabrieli, a Student of Software Engennier, WEB and Mobile developer ⚙️💻📱
+<br>
 
 ### ✦ Tools ✦
 <div style="display: inline_block">
@@ -24,13 +25,15 @@ I'm Gabrieli, a Student of Software Engennier, WEB and Mobile developer ⚙️�
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="c" title="c"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" title="MySQL"/>
 </div>
+<br>
 
 ### ✦ Framewoks ✦
 <div style="display: inline_block">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="BootStrap" title="BootStrap"/> 
 </div>
+<br>
 
 ### ✦ Statistics ✦
 ![Gabrieli's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabilbck&hide=issues,contribs&show=prs_merged_percentage,icons=true&theme=transparent)
-
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabilbck&layout=compact&show=icons=true&theme=transparent)
