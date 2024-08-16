@@ -15,6 +15,7 @@ I'm Gabrieli, a Student of Software Engennier, WEB and Mobile developer ⚙️�
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" alt="Arduino" title="Arduino"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" width="50" alt="Trello" title="Trello"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="50" alt="Gimp" title="Gimp"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="NodeJS" title="NodeJS"/>
 </div>
 <br>
 
