@@ -13,7 +13,6 @@ I'm Gabrieli, a Student of Software Engennier, WEB and Mobile developer ⚙️�
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" alt="Canva" title="Canva"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="50" alt="Firebase" title="Firebase"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" alt="Arduino" title="Arduino"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/java-original.svg" width="50" alt="Java" title="Java"/>
 </div>
 <br>
 
@@ -26,6 +25,7 @@ I'm Gabrieli, a Student of Software Engennier, WEB and Mobile developer ⚙️�
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50" alt="php" title="php"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="c" title="c"/>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" title="MySQL"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java" title="Java"/>
 </div>
 <br>
 
