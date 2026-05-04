@@ -28,13 +28,6 @@
 </div>
 <br>
 
-### ✦ Framewoks ✦
-<div style="display: inline_block">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="BootStrap" title="BootStrap"/> 
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React Native" title="React Native"/> 
-</div>
-<br>
-
 ### ✦ Statistics ✦
 ![Gabrieli's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabilbck&hide=issues,contribs&show=prs_merged_percentage,icons=true&theme=transparent)
 <br>
